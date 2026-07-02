@@ -15,4 +15,12 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manasjain087/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/manasjain087/Leetcode_Problems/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/manasjain087/Leetcode_Problems/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
