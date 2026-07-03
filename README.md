@@ -23,4 +23,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/manasjain087/Leetcode_Problems/tree/master/0086-partition-list) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/manasjain087/Leetcode_Problems/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
