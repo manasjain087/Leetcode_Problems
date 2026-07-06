@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0086-partition-list](https://github.com/manasjain087/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,18 +34,22 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manasjain087/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manasjain087/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manasjain087/Leetcode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
