@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manasjain087/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/manasjain087/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manasjain087/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/manasjain087/Leetcode_Problems/tree/master/0057-insert-interval) |
 | [0300-longest-increasing-subsequence](https://github.com/manasjain087/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Tree
@@ -58,4 +60,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/manasjain087/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manasjain087/Leetcode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
