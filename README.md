@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | [0086-partition-list](https://github.com/manasjain087/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/manasjain087/Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/manasjain087/Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/manasjain087/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,8 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manasjain087/Leetcode_Problems/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/manasjain087/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
