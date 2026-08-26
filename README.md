@@ -69,4 +69,13 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/manasjain087/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/manasjain087/Leetcode_Problems/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/manasjain087/Leetcode_Problems/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/manasjain087/Leetcode_Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
