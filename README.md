@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manasjain087/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manasjain087/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/manasjain087/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
@@ -33,6 +34,7 @@ This repository contains my solutions to LeetCode problems solved using Python. 
 | ------- |
 | [0048-rotate-image](https://github.com/manasjain087/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/manasjain087/Leetcode_Problems/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manasjain087/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/manasjain087/Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Tree
 |  |
